@@ -1,0 +1,39 @@
+Weather Data Analysis Report
+==================================================
+
+1. Temperature Analysis
+----------------------------------------
+Average Temperature: 14.78�C
+Maximum Temperature: 40.00�C
+Minimum Temperature: -19.97�C
+
+The dataset indicates noticeable variation in temperature, suggesting changing weather conditions over time.
+
+2. Temperature Trend Over Time
+----------------------------------------
+The line chart illustrates fluctuations in temperature across time.
+There are visible rises and falls, indicating dynamic weather behavior.
+These variations may be influenced by seasonal or environmental factors.
+
+3. Temperature by Location
+----------------------------------------
+The bar chart compares average temperatures across locations.
+Some locations show higher averages, while others remain cooler.
+This suggests geographical differences affecting climate.
+
+4. Temperature Distribution
+----------------------------------------
+The pie chart categorizes temperature into ranges like Cold, Moderate, and Hot.
+Most values typically fall into moderate ranges, with fewer extremes.
+
+5. Humidity Trend
+----------------------------------------
+Humidity levels change over time, showing atmospheric variation.
+Higher humidity indicates moist conditions, while lower values suggest dryness.
+
+6. Final Insights
+----------------------------------------
+- Weather conditions fluctuate significantly over time.
+- Temperature varies across different locations.
+- Most weather conditions fall into moderate ranges.
+- Humidity trends reflect changing atmospheric conditions.
